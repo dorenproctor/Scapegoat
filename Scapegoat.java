@@ -3,33 +3,44 @@
 //Due Nov 6, 2017
 
 class Scapegoat {
+	public int debug = 0;
+
 	private Node root;
 	private int n;
-	private double alpha;
+	private double alpha, baseAlpha;
 
 	public Scapegoat(double a, int val) { // constructor
 		alpha = a;
+		baseAlpha = Math.log(1/alpha); // no need to calculate on every insert/delete
 		root = new Node(val);
 		n = 1;
+		if (debug>0) System.out.println("Creating tree with alpha: "+a+"  and root: "+val+"\n");
 	}
 
 
 	public boolean insert(int val) {
 		Node newNode = new Node(val);
 		int depth = addWithDepth(newNode);
- 		// if too deep then find highest scapegoat in tree
-		if (depth > Math.floor(Math.log(n) / Math.log(1/alpha))) {
+ 		double maxDepth = Math.floor(Math.log(n) / baseAlpha); // log base alpha of n
+ 		if (debug>0) System.out.println("Inserting "+val);
+ 		if (debug>1) System.out.println("depth: "+depth+"  MaxDepth: "+maxDepth);
+
+		if (depth > maxDepth) {
+			if (debug>0) System.out.println("Too deep. Finding scapegoat");
 			Node scapegoat = newNode;
 			Node node = newNode;
 			while (node.parent != null) {
 				node = node.parent;
-				if (size(scapegoat.left) > alpha*size(scapegoat.right) ||
-					size(scapegoat.right) > alpha*size(scapegoat.left)) {
+				if (size(node.left) > alpha*size(node.right) ||
+					size(node.right) > alpha*size(node.left)) {
 					scapegoat = node;
+					if (debug>2) System.out.println(scapegoat.value+" is a viable scapegoat");
 				}
 			}
+			if (debug>0) System.out.println("Scapegoat is "+scapegoat.value);
 			rebuild(scapegoat);
 		}
+		if (debug>0) System.out.println("");
 		return (depth != -1);
 	}
 

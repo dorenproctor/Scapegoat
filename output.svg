@@ -1,566 +1,566 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="2260">
-<circle cx="210.625" cy="30.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="210.625" y="30.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">256</text>
-<line x1="197.25766" y1="34.16104" x2="63.36734" y2="75.83896" style="stroke:purple;stroke-width:3"/>
-<circle cx="50.0" cy="80.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="50.0" y="80.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">2</text>
-<line x1="55.19947" y1="92.99867" x2="64.80053" y2="117.00133" style="stroke:purple;stroke-width:3"/>
-<circle cx="70.0" cy="130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="70.0" y="130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">230</text>
-<line x1="64.80053" y1="142.99867" x2="55.19947" y2="167.00133" style="stroke:purple;stroke-width:3"/>
-<circle cx="50.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="50.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">8</text>
-<line x1="44.80053" y1="192.99867" x2="35.19947" y2="217.00133" style="stroke:purple;stroke-width:3"/>
-<circle cx="30.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="30.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">7</text>
-<line x1="55.19947" y1="192.99867" x2="64.80053" y2="217.00133" style="stroke:purple;stroke-width:3"/>
-<circle cx="70.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="70.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">9</text>
-<line x1="75.19947" y1="242.99867" x2="84.80053" y2="267.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="90.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="90.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">11</text>
-<line x1="84.80053" y1="292.9987" x2="75.19947" y2="317.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="70.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="70.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">10</text>
-<line x1="95.19947" y1="292.9987" x2="104.80053" y2="317.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="110.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="110.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">12</text>
-<line x1="115.19947" y1="342.9987" x2="124.80053" y2="367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="130.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="130.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">15</text>
-<line x1="124.80053" y1="392.9987" x2="115.19947" y2="417.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="110.0" cy="430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="110.0" y="430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">14</text>
-<line x1="104.80053" y1="442.9987" x2="95.19947" y2="467.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="90.0" cy="480.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="90.0" y="480.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">13</text>
-<line x1="135.19946" y1="392.9987" x2="144.80054" y2="417.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="150.0" cy="430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="150.0" y="430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">16</text>
-<line x1="155.19946" y1="442.9987" x2="164.80054" y2="467.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="170.0" cy="480.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="170.0" y="480.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">17</text>
-<line x1="175.19946" y1="492.9987" x2="184.80054" y2="517.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="190.0" cy="530.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="190.0" y="530.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">18</text>
-<line x1="195.19946" y1="542.99866" x2="204.80054" y2="567.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="210.0" cy="580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="210.0" y="580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">19</text>
-<line x1="215.19946" y1="592.99866" x2="224.80054" y2="617.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="230.0" cy="630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="230.0" y="630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">20</text>
-<line x1="235.19946" y1="642.99866" x2="244.80054" y2="667.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="250.0" cy="680.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="250.0" y="680.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">59</text>
-<line x1="240.10051" y1="689.8995" x2="209.89949" y2="720.1005" style="stroke:purple;stroke-width:3"/>
-<circle cx="200.0" cy="730.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="200.0" y="730.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">35</text>
-<line x1="194.80054" y1="742.99866" x2="185.19946" y2="767.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="180.0" cy="780.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="180.0" y="780.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">27</text>
-<line x1="185.19946" y1="792.99866" x2="194.80054" y2="817.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="200.0" cy="830.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="200.0" y="830.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">31</text>
-<line x1="194.80054" y1="842.99866" x2="185.19946" y2="867.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="180.0" cy="880.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="180.0" y="880.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">28</text>
-<line x1="185.19946" y1="892.99866" x2="194.80054" y2="917.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="200.0" cy="930.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="200.0" y="930.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">29</text>
-<line x1="205.19946" y1="842.99866" x2="214.80054" y2="867.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="220.0" cy="880.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="220.0" y="880.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">32</text>
-<line x1="225.19946" y1="892.99866" x2="234.80054" y2="917.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="240.0" cy="930.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="240.0" y="930.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">33</text>
-<line x1="205.19946" y1="742.99866" x2="214.80054" y2="767.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="220.0" cy="780.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="220.0" y="780.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">36</text>
-<line x1="225.19946" y1="792.99866" x2="234.80054" y2="817.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="240.0" cy="830.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="240.0" y="830.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">37</text>
-<line x1="245.19946" y1="842.99866" x2="254.80054" y2="867.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="260.0" cy="880.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="260.0" y="880.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">39</text>
-<line x1="265.19946" y1="892.99866" x2="274.80054" y2="917.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="280.0" cy="930.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="280.0" y="930.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">40</text>
-<line x1="285.19946" y1="942.99866" x2="294.80054" y2="967.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="300.0" cy="980.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="300.0" y="980.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">41</text>
-<line x1="305.19946" y1="992.99866" x2="314.80054" y2="1017.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="320.0" cy="1030.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="320.0" y="1030.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">42</text>
-<line x1="325.19946" y1="1042.9987" x2="334.80054" y2="1067.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="340.0" cy="1080.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="340.0" y="1080.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">43</text>
-<line x1="345.19946" y1="1092.9987" x2="354.80054" y2="1117.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="360.0" cy="1130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="360.0" y="1130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">44</text>
-<line x1="365.19946" y1="1142.9987" x2="374.80054" y2="1167.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="380.0" cy="1180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="380.0" y="1180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">46</text>
-<line x1="385.19946" y1="1192.9987" x2="394.80054" y2="1217.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="400.0" cy="1230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="400.0" y="1230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">47</text>
-<line x1="405.19946" y1="1242.9987" x2="414.80054" y2="1267.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="420.0" cy="1280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="420.0" y="1280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">48</text>
-<line x1="425.19946" y1="1292.9987" x2="434.80054" y2="1317.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="440.0" cy="1330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="440.0" y="1330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">49</text>
-<line x1="445.19946" y1="1342.9987" x2="454.80054" y2="1367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="460.0" cy="1380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="460.0" y="1380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">50</text>
-<line x1="465.19946" y1="1392.9987" x2="474.80054" y2="1417.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="480.0" cy="1430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="480.0" y="1430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">56</text>
-<line x1="259.8995" y1="689.8995" x2="290.1005" y2="720.1005" style="stroke:purple;stroke-width:3"/>
-<circle cx="300.0" cy="730.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="300.0" y="730.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">62</text>
-<line x1="305.19946" y1="742.99866" x2="314.80054" y2="767.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="320.0" cy="780.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="320.0" y="780.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">65</text>
-<line x1="325.19946" y1="792.99866" x2="334.80054" y2="817.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="340.0" cy="830.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="340.0" y="830.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">68</text>
-<line x1="345.19946" y1="842.99866" x2="354.80054" y2="867.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="360.0" cy="880.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="360.0" y="880.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">71</text>
-<line x1="365.19946" y1="892.99866" x2="374.80054" y2="917.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="380.0" cy="930.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="380.0" y="930.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">77</text>
-<line x1="385.19946" y1="942.99866" x2="394.80054" y2="967.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="400.0" cy="980.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="400.0" y="980.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">89</text>
-<line x1="391.25427" y1="990.9322" x2="368.74573" y2="1019.0678" style="stroke:purple;stroke-width:3"/>
-<circle cx="360.0" cy="1030.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="360.0" y="1030.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">80</text>
-<line x1="365.19946" y1="1042.9987" x2="374.80054" y2="1067.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="380.0" cy="1080.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="380.0" y="1080.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">83</text>
-<line x1="385.19946" y1="1092.9987" x2="394.80054" y2="1117.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="400.0" cy="1130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="400.0" y="1130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">86</text>
-<line x1="408.74573" y1="990.9322" x2="431.25427" y2="1019.0678" style="stroke:purple;stroke-width:3"/>
-<circle cx="440.0" cy="1030.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="440.0" y="1030.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">95</text>
-<line x1="434.80054" y1="1042.9987" x2="425.19946" y2="1067.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="420.0" cy="1080.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="420.0" y="1080.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">92</text>
-<line x1="445.19946" y1="1042.9987" x2="454.80054" y2="1067.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="460.0" cy="1080.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="460.0" y="1080.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">98</text>
-<line x1="465.19946" y1="1092.9987" x2="474.80054" y2="1117.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="480.0" cy="1130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="480.0" y="1130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">101</text>
-<line x1="485.19946" y1="1142.9987" x2="494.80054" y2="1167.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="500.0" cy="1180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="500.0" y="1180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">107</text>
-<line x1="505.19946" y1="1192.9987" x2="514.80054" y2="1217.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="520.0" cy="1230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="520.0" y="1230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">110</text>
-<line x1="525.19946" y1="1242.9987" x2="534.80054" y2="1267.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="540.0" cy="1280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="540.0" y="1280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">113</text>
-<line x1="545.19946" y1="1292.9987" x2="554.80054" y2="1317.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="560.0" cy="1330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="560.0" y="1330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">116</text>
-<line x1="565.19946" y1="1342.9987" x2="574.80054" y2="1367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="580.0" cy="1380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="580.0" y="1380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">119</text>
-<line x1="585.19946" y1="1392.9987" x2="594.80054" y2="1417.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="600.0" cy="1430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="600.0" y="1430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">125</text>
-<line x1="605.19946" y1="1442.9987" x2="614.80054" y2="1467.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="620.0" cy="1480.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="620.0" y="1480.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">128</text>
-<line x1="625.19946" y1="1492.9987" x2="634.80054" y2="1517.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="640.0" cy="1530.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="640.0" y="1530.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">182</text>
-<line x1="634.80054" y1="1542.9987" x2="625.19946" y2="1567.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="620.0" cy="1580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="620.0" y="1580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">146</text>
-<line x1="614.80054" y1="1592.9987" x2="605.19946" y2="1617.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="600.0" cy="1630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="600.0" y="1630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">131</text>
-<line x1="605.19946" y1="1642.9987" x2="614.80054" y2="1667.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="620.0" cy="1680.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="620.0" y="1680.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">137</text>
-<line x1="625.19946" y1="1692.9987" x2="634.80054" y2="1717.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="640.0" cy="1730.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="640.0" y="1730.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">140</text>
-<line x1="645.19946" y1="1742.9987" x2="654.80054" y2="1767.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="660.0" cy="1780.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="660.0" y="1780.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">143</text>
-<line x1="625.19946" y1="1592.9987" x2="634.80054" y2="1617.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="640.0" cy="1630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="640.0" y="1630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">152</text>
-<line x1="645.19946" y1="1642.9987" x2="654.80054" y2="1667.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="660.0" cy="1680.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="660.0" y="1680.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">155</text>
-<line x1="665.19946" y1="1692.9987" x2="674.80054" y2="1717.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="680.0" cy="1730.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="680.0" y="1730.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">158</text>
-<line x1="685.19946" y1="1742.9987" x2="694.80054" y2="1767.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="700.0" cy="1780.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="700.0" y="1780.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">161</text>
-<line x1="705.19946" y1="1792.9987" x2="714.80054" y2="1817.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="720.0" cy="1830.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="720.0" y="1830.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">167</text>
-<line x1="725.19946" y1="1842.9987" x2="734.80054" y2="1867.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="740.0" cy="1880.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="740.0" y="1880.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">170</text>
-<line x1="745.19946" y1="1892.9987" x2="754.80054" y2="1917.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="760.0" cy="1930.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="760.0" y="1930.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">173</text>
-<line x1="765.19946" y1="1942.9987" x2="774.80054" y2="1967.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="780.0" cy="1980.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="780.0" y="1980.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">176</text>
-<line x1="645.19946" y1="1542.9987" x2="654.80054" y2="1567.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="660.0" cy="1580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="660.0" y="1580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">185</text>
-<line x1="665.19946" y1="1592.9987" x2="674.80054" y2="1617.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="680.0" cy="1630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="680.0" y="1630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">188</text>
-<line x1="685.19946" y1="1642.9987" x2="694.80054" y2="1667.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="700.0" cy="1680.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="700.0" y="1680.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">191</text>
-<line x1="705.19946" y1="1692.9987" x2="714.80054" y2="1717.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="720.0" cy="1730.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="720.0" y="1730.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">194</text>
-<line x1="725.19946" y1="1742.9987" x2="734.80054" y2="1767.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="740.0" cy="1780.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="740.0" y="1780.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">197</text>
-<line x1="745.19946" y1="1792.9987" x2="754.80054" y2="1817.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="760.0" cy="1830.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="760.0" y="1830.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">200</text>
-<line x1="765.19946" y1="1842.9987" x2="774.80054" y2="1867.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="780.0" cy="1880.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="780.0" y="1880.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">206</text>
-<line x1="785.19946" y1="1892.9987" x2="794.80054" y2="1917.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="800.0" cy="1930.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="800.0" y="1930.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">209</text>
-<line x1="805.19946" y1="1942.9987" x2="814.80054" y2="1967.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="820.0" cy="1980.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="820.0" y="1980.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">212</text>
-<line x1="825.19946" y1="1992.9987" x2="834.80054" y2="2017.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="840.0" cy="2030.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="840.0" y="2030.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">215</text>
-<line x1="845.19946" y1="2042.9987" x2="854.80054" y2="2067.0012" style="stroke:purple;stroke-width:3"/>
-<circle cx="860.0" cy="2080.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="860.0" y="2080.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">218</text>
-<line x1="865.19946" y1="2092.9988" x2="874.80054" y2="2117.0012" style="stroke:purple;stroke-width:3"/>
-<circle cx="880.0" cy="2130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="880.0" y="2130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">221</text>
-<line x1="885.19946" y1="2142.9988" x2="894.80054" y2="2167.0012" style="stroke:purple;stroke-width:3"/>
-<circle cx="900.0" cy="2180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="900.0" y="2180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">224</text>
-<line x1="905.19946" y1="2192.9988" x2="914.80054" y2="2217.0012" style="stroke:purple;stroke-width:3"/>
-<circle cx="920.0" cy="2230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="920.0" y="2230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">227</text>
-<line x1="75.19947" y1="142.99867" x2="84.80053" y2="167.00133" style="stroke:purple;stroke-width:3"/>
-<circle cx="90.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="90.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">236</text>
-<line x1="95.19947" y1="192.99867" x2="104.80053" y2="217.00133" style="stroke:purple;stroke-width:3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="2680" height="760">
+<circle cx="1310.625" cy="30.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1310.625" y="30.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">245</text>
+<line x1="1296.6675" y1="31.08937" x2="683.9576" y2="78.91063" style="stroke:purple;stroke-width:3"/>
+<circle cx="670.0" cy="80.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="670.0" y="80.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">86</text>
+<line x1="656.16785" y1="82.16128" x2="363.83215" y2="127.83872" style="stroke:purple;stroke-width:3"/>
+<circle cx="350.0" cy="130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="350.0" y="130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">36</text>
+<line x1="336.63727" y1="134.17584" x2="203.36272" y2="175.82416" style="stroke:purple;stroke-width:3"/>
+<circle cx="190.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="190.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">17</text>
+<line x1="178.12802" y1="187.41998" x2="121.87198" y2="222.58002" style="stroke:purple;stroke-width:3"/>
 <circle cx="110.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="110.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">239</text>
-<line x1="115.19947" y1="242.99867" x2="124.80053" y2="267.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="130.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="130.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">242</text>
-<line x1="135.19946" y1="292.9987" x2="144.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="150.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="150.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">245</text>
-<line x1="155.19946" y1="342.9987" x2="164.80054" y2="367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="170.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="170.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">248</text>
-<line x1="175.19946" y1="392.9987" x2="184.80054" y2="417.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="190.0" cy="430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="190.0" y="430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">254</text>
-<line x1="223.99234" y1="34.16104" x2="357.88266" y2="75.83896" style="stroke:purple;stroke-width:3"/>
-<circle cx="371.25" cy="80.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="371.25" y="80.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">293</text>
-<line x1="357.7541" y1="83.72301" x2="203.4959" y2="126.27699" style="stroke:purple;stroke-width:3"/>
-<circle cx="190.0" cy="130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="190.0" y="130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">266</text>
-<line x1="184.80054" y1="142.99867" x2="175.19946" y2="167.00133" style="stroke:purple;stroke-width:3"/>
-<circle cx="170.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="170.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">263</text>
-<line x1="164.80054" y1="192.99867" x2="155.19946" y2="217.00133" style="stroke:purple;stroke-width:3"/>
-<circle cx="150.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="150.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">257</text>
-<line x1="155.19946" y1="242.99867" x2="164.80054" y2="267.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="170.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="170.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">260</text>
-<line x1="195.19946" y1="142.99867" x2="204.80054" y2="167.00133" style="stroke:purple;stroke-width:3"/>
-<circle cx="210.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="210.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">278</text>
-<line x1="204.80054" y1="192.99867" x2="195.19946" y2="217.00133" style="stroke:purple;stroke-width:3"/>
-<circle cx="190.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="190.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">272</text>
-<line x1="195.19946" y1="242.99867" x2="204.80054" y2="267.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="210.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="210.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">275</text>
-<line x1="215.19946" y1="192.99867" x2="224.80054" y2="217.00133" style="stroke:purple;stroke-width:3"/>
-<circle cx="230.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="230.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">281</text>
-<line x1="235.19946" y1="242.99867" x2="244.80054" y2="267.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="250.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="250.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">284</text>
-<line x1="255.19946" y1="292.9987" x2="264.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="270.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="270.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">290</text>
-<line x1="384.7459" y1="83.72301" x2="539.0041" y2="126.27699" style="stroke:purple;stroke-width:3"/>
-<circle cx="552.5" cy="130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="552.5" y="130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">584</text>
-<line x1="540.04254" y1="136.38843" x2="467.45746" y2="173.61157" style="stroke:purple;stroke-width:3"/>
-<circle cx="455.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="455.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">527</text>
-<line x1="442.61115" y1="186.52045" x2="372.38885" y2="223.47955" style="stroke:purple;stroke-width:3"/>
-<circle cx="360.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="360.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">332</text>
-<line x1="352.79706" y1="242.0049" x2="337.20294" y2="267.9951" style="stroke:purple;stroke-width:3"/>
-<circle cx="330.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="330.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">323</text>
-<line x1="324.80054" y1="292.9987" x2="315.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="310.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="310.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">296</text>
-<line x1="315.19946" y1="342.9987" x2="324.80054" y2="367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="330.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="330.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">299</text>
-<line x1="335.19946" y1="392.9987" x2="344.80054" y2="417.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="350.0" cy="430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="350.0" y="430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">302</text>
-<line x1="355.19946" y1="442.9987" x2="364.80054" y2="467.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="370.0" cy="480.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="370.0" y="480.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">305</text>
-<line x1="375.19946" y1="492.9987" x2="384.80054" y2="517.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="390.0" cy="530.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="390.0" y="530.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">308</text>
-<line x1="395.19946" y1="542.99866" x2="404.80054" y2="567.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="410.0" cy="580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="410.0" y="580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">314</text>
-<line x1="404.80054" y1="592.99866" x2="395.19946" y2="617.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="390.0" cy="630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="390.0" y="630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">311</text>
-<line x1="415.19946" y1="592.99866" x2="424.80054" y2="617.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="430.0" cy="630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="430.0" y="630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">317</text>
-<line x1="435.19946" y1="642.99866" x2="444.80054" y2="667.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="450.0" cy="680.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="450.0" y="680.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">320</text>
-<line x1="335.19946" y1="292.9987" x2="344.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="350.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="350.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">326</text>
-<line x1="355.19946" y1="342.9987" x2="364.80054" y2="367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="370.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="370.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">329</text>
-<line x1="367.20294" y1="242.0049" x2="382.79706" y2="267.9951" style="stroke:purple;stroke-width:3"/>
+<text x="110.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">11</text>
+<line x1="101.25427" y1="240.93216" x2="78.74573" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="70.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="70.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">8</text>
+<line x1="64.80053" y1="292.9987" x2="55.19947" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="50.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="50.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">7</text>
+<line x1="44.80053" y1="342.9987" x2="35.19947" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="30.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="30.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">2</text>
+<line x1="75.19947" y1="292.9987" x2="84.80053" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="90.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="90.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">10</text>
+<line x1="84.80053" y1="342.9987" x2="75.19947" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="70.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="70.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">9</text>
+<line x1="118.74573" y1="240.93216" x2="141.25427" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="150.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="150.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">14</text>
+<line x1="144.80054" y1="292.9987" x2="135.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="130.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="130.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">13</text>
+<line x1="124.80053" y1="342.9987" x2="115.19947" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="110.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="110.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">12</text>
+<line x1="155.19946" y1="292.9987" x2="164.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="170.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="170.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">16</text>
+<line x1="164.80054" y1="342.9987" x2="155.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="150.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="150.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">15</text>
+<line x1="201.87198" y1="187.41998" x2="258.12802" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="270.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="270.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">29</text>
+<line x1="261.25427" y1="240.93216" x2="238.74573" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="230.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="230.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">20</text>
+<line x1="224.80054" y1="292.9987" x2="215.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="210.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="210.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">19</text>
+<line x1="204.80054" y1="342.9987" x2="195.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="190.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="190.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">18</text>
+<line x1="235.19946" y1="292.9987" x2="244.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="250.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="250.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">28</text>
+<line x1="244.80054" y1="342.9987" x2="235.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="230.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="230.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">27</text>
+<line x1="278.74573" y1="240.93216" x2="301.25427" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="310.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="310.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">33</text>
+<line x1="304.80054" y1="292.9987" x2="295.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="290.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="290.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">32</text>
+<line x1="284.80054" y1="342.9987" x2="275.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="270.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="270.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">31</text>
+<line x1="315.19946" y1="292.9987" x2="324.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="330.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="330.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">35</text>
+<line x1="363.36273" y1="134.17584" x2="496.63727" y2="175.82416" style="stroke:purple;stroke-width:3"/>
+<circle cx="510.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="510.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">49</text>
+<line x1="498.12802" y1="187.41998" x2="441.87198" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="430.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="430.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">43</text>
+<line x1="421.25427" y1="240.93216" x2="398.74573" y2="269.06784" style="stroke:purple;stroke-width:3"/>
 <circle cx="390.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="390.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">335</text>
+<text x="390.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">40</text>
+<line x1="384.80054" y1="292.9987" x2="375.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="370.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="370.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">39</text>
+<line x1="364.80054" y1="342.9987" x2="355.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="350.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="350.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">37</text>
 <line x1="395.19946" y1="292.9987" x2="404.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
 <circle cx="410.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="410.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">338</text>
-<line x1="415.19946" y1="342.9987" x2="424.80054" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<text x="410.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">42</text>
+<line x1="404.80054" y1="342.9987" x2="395.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="390.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="390.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">41</text>
+<line x1="438.74573" y1="240.93216" x2="461.25427" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="470.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="470.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">47</text>
+<line x1="464.80054" y1="292.9987" x2="455.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="450.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="450.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">46</text>
+<line x1="444.80054" y1="342.9987" x2="435.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
 <circle cx="430.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="430.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">371</text>
-<line x1="421.25427" y1="390.93216" x2="398.74573" y2="419.06784" style="stroke:purple;stroke-width:3"/>
-<circle cx="390.0" cy="430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="390.0" y="430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">341</text>
-<line x1="395.19946" y1="442.9987" x2="404.80054" y2="467.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="410.0" cy="480.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="410.0" y="480.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">344</text>
-<line x1="415.19946" y1="492.9987" x2="424.80054" y2="517.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="430.0" cy="530.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="430.0" y="530.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">347</text>
-<line x1="435.19946" y1="542.99866" x2="444.80054" y2="567.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="450.0" cy="580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="450.0" y="580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">350</text>
-<line x1="455.19946" y1="592.99866" x2="464.80054" y2="617.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="470.0" cy="630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="470.0" y="630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">353</text>
-<line x1="475.19946" y1="642.99866" x2="484.80054" y2="667.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="490.0" cy="680.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="490.0" y="680.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">356</text>
-<line x1="495.19946" y1="692.99866" x2="504.80054" y2="717.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="510.0" cy="730.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="510.0" y="730.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">359</text>
-<line x1="438.74573" y1="390.93216" x2="461.25427" y2="419.06784" style="stroke:purple;stroke-width:3"/>
-<circle cx="470.0" cy="430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="470.0" y="430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">389</text>
-<line x1="464.80054" y1="442.9987" x2="455.19946" y2="467.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="450.0" cy="480.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="450.0" y="480.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">374</text>
-<line x1="455.19946" y1="492.9987" x2="464.80054" y2="517.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="470.0" cy="530.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="470.0" y="530.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">377</text>
-<line x1="475.19946" y1="542.99866" x2="484.80054" y2="567.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="490.0" cy="580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="490.0" y="580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">380</text>
-<line x1="495.19946" y1="592.99866" x2="504.80054" y2="617.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="510.0" cy="630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="510.0" y="630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">386</text>
-<line x1="475.19946" y1="442.9987" x2="484.80054" y2="467.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="490.0" cy="480.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="490.0" y="480.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">392</text>
-<line x1="495.19946" y1="492.9987" x2="504.80054" y2="517.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="510.0" cy="530.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="510.0" y="530.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">395</text>
-<line x1="515.19946" y1="542.99866" x2="524.80054" y2="567.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="530.0" cy="580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="530.0" y="580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">398</text>
-<line x1="535.19946" y1="592.99866" x2="544.80054" y2="617.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="550.0" cy="630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="550.0" y="630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">401</text>
-<line x1="555.19946" y1="642.99866" x2="564.80054" y2="667.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="570.0" cy="680.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="570.0" y="680.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">404</text>
-<line x1="575.19946" y1="692.99866" x2="584.80054" y2="717.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="590.0" cy="730.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="590.0" y="730.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">428</text>
-<line x1="595.19946" y1="742.99866" x2="604.80054" y2="767.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="610.0" cy="780.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="610.0" y="780.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">431</text>
-<line x1="615.19946" y1="792.99866" x2="624.80054" y2="817.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="630.0" cy="830.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="630.0" y="830.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">434</text>
-<line x1="635.19946" y1="842.99866" x2="644.80054" y2="867.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="650.0" cy="880.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="650.0" y="880.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">437</text>
-<line x1="655.19946" y1="892.99866" x2="664.80054" y2="917.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="670.0" cy="930.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="670.0" y="930.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">440</text>
-<line x1="675.19946" y1="942.99866" x2="684.80054" y2="967.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="690.0" cy="980.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="690.0" y="980.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">446</text>
-<line x1="684.80054" y1="992.99866" x2="675.19946" y2="1017.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="670.0" cy="1030.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="670.0" y="1030.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">443</text>
-<line x1="695.19946" y1="992.99866" x2="704.80054" y2="1017.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="710.0" cy="1030.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="710.0" y="1030.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">449</text>
-<line x1="715.19946" y1="1042.9987" x2="724.80054" y2="1067.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="730.0" cy="1080.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="730.0" y="1080.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">452</text>
-<line x1="735.19946" y1="1092.9987" x2="744.80054" y2="1117.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="750.0" cy="1130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="750.0" y="1130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">455</text>
-<line x1="755.19946" y1="1142.9987" x2="764.80054" y2="1167.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="770.0" cy="1180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="770.0" y="1180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">458</text>
-<line x1="775.19946" y1="1192.9987" x2="784.80054" y2="1217.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="790.0" cy="1230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="790.0" y="1230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">461</text>
-<line x1="795.19946" y1="1242.9987" x2="804.80054" y2="1267.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="810.0" cy="1280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="810.0" y="1280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">464</text>
-<line x1="815.19946" y1="1292.9987" x2="824.80054" y2="1317.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="830.0" cy="1330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="830.0" y="1330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">467</text>
-<line x1="835.19946" y1="1342.9987" x2="844.80054" y2="1367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="850.0" cy="1380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="850.0" y="1380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">470</text>
-<line x1="855.19946" y1="1392.9987" x2="864.80054" y2="1417.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="870.0" cy="1430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="870.0" y="1430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">473</text>
-<line x1="875.19946" y1="1442.9987" x2="884.80054" y2="1467.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="890.0" cy="1480.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="890.0" y="1480.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">476</text>
-<line x1="895.19946" y1="1492.9987" x2="904.80054" y2="1517.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="910.0" cy="1530.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="910.0" y="1530.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">494</text>
-<line x1="904.80054" y1="1542.9987" x2="895.19946" y2="1567.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="890.0" cy="1580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="890.0" y="1580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">488</text>
-<line x1="915.19946" y1="1542.9987" x2="924.80054" y2="1567.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="930.0" cy="1580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="930.0" y="1580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">497</text>
-<line x1="935.19946" y1="1592.9987" x2="944.80054" y2="1617.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="950.0" cy="1630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="950.0" y="1630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">500</text>
-<line x1="955.19946" y1="1642.9987" x2="964.80054" y2="1667.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="970.0" cy="1680.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="970.0" y="1680.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">506</text>
-<line x1="975.19946" y1="1692.9987" x2="984.80054" y2="1717.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="990.0" cy="1730.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="990.0" y="1730.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">509</text>
-<line x1="995.19946" y1="1742.9987" x2="1004.80054" y2="1767.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="1010.0" cy="1780.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="1010.0" y="1780.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">515</text>
-<line x1="1015.19946" y1="1792.9987" x2="1024.8005" y2="1817.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="1030.0" cy="1830.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="1030.0" y="1830.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">518</text>
-<line x1="1035.1995" y1="1842.9987" x2="1044.8005" y2="1867.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="1050.0" cy="1880.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="1050.0" y="1880.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">521</text>
-<line x1="1055.1995" y1="1892.9987" x2="1064.8005" y2="1917.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="1070.0" cy="1930.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="1070.0" y="1930.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">524</text>
-<line x1="467.38885" y1="186.52045" x2="537.61115" y2="223.47955" style="stroke:purple;stroke-width:3"/>
-<circle cx="550.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="550.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">530</text>
-<line x1="555.19946" y1="242.99867" x2="564.80054" y2="267.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="570.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="570.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">560</text>
-<line x1="564.80054" y1="292.9987" x2="555.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="550.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="550.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">554</text>
-<line x1="544.80054" y1="342.9987" x2="535.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="530.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="530.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">551</text>
-<line x1="524.80054" y1="392.9987" x2="515.19946" y2="417.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="510.0" cy="430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="510.0" y="430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">533</text>
-<line x1="515.19946" y1="442.9987" x2="524.80054" y2="467.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="530.0" cy="480.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="530.0" y="480.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">536</text>
-<line x1="535.19946" y1="492.9987" x2="544.80054" y2="517.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="550.0" cy="530.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="550.0" y="530.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">539</text>
-<line x1="555.19946" y1="542.99866" x2="564.80054" y2="567.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="570.0" cy="580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="570.0" y="580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">542</text>
-<line x1="575.19946" y1="592.99866" x2="584.80054" y2="617.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="590.0" cy="630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="590.0" y="630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">545</text>
-<line x1="595.19946" y1="642.99866" x2="604.80054" y2="667.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="610.0" cy="680.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="610.0" y="680.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">548</text>
-<line x1="555.19946" y1="342.9987" x2="564.80054" y2="367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="570.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="570.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">557</text>
-<line x1="575.19946" y1="292.9987" x2="584.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="590.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="590.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">563</text>
-<line x1="595.19946" y1="342.9987" x2="604.80054" y2="367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="610.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="610.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">566</text>
-<line x1="615.19946" y1="392.9987" x2="624.80054" y2="417.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="630.0" cy="430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="630.0" y="430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">569</text>
-<line x1="635.19946" y1="442.9987" x2="644.80054" y2="467.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="650.0" cy="480.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="650.0" y="480.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">572</text>
-<line x1="655.19946" y1="492.9987" x2="664.80054" y2="517.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="670.0" cy="530.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="670.0" y="530.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">575</text>
-<line x1="675.19946" y1="542.99866" x2="684.80054" y2="567.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="690.0" cy="580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="690.0" y="580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">578</text>
-<line x1="695.19946" y1="592.99866" x2="704.80054" y2="617.00134" style="stroke:purple;stroke-width:3"/>
-<circle cx="710.0" cy="630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="710.0" y="630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">581</text>
-<line x1="564.95746" y1="136.38843" x2="637.54254" y2="173.61157" style="stroke:purple;stroke-width:3"/>
-<circle cx="650.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="650.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">596</text>
-<line x1="644.80054" y1="192.99867" x2="635.19946" y2="217.00133" style="stroke:purple;stroke-width:3"/>
-<circle cx="630.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="630.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">590</text>
-<line x1="624.80054" y1="242.99867" x2="615.19946" y2="267.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="610.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="610.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">587</text>
-<line x1="635.19946" y1="242.99867" x2="644.80054" y2="267.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="650.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="650.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">593</text>
+<text x="430.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">44</text>
+<line x1="475.19946" y1="292.9987" x2="484.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="490.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="490.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">48</text>
+<line x1="521.87195" y1="187.41998" x2="578.12805" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="590.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="590.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">68</text>
+<line x1="581.2543" y1="240.93216" x2="558.7457" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="550.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="550.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">59</text>
+<line x1="544.80054" y1="292.9987" x2="535.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="530.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="530.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">56</text>
+<line x1="524.80054" y1="342.9987" x2="515.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="510.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="510.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">50</text>
+<line x1="555.19946" y1="292.9987" x2="564.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="570.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="570.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">65</text>
+<line x1="564.80054" y1="342.9987" x2="555.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="550.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="550.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">62</text>
+<line x1="598.7457" y1="240.93216" x2="621.2543" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="630.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="630.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">80</text>
+<line x1="624.80054" y1="292.9987" x2="615.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="610.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="610.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">77</text>
+<line x1="604.80054" y1="342.9987" x2="595.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="590.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="590.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">71</text>
+<line x1="635.19946" y1="292.9987" x2="644.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="650.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="650.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">83</text>
+<line x1="683.83215" y1="82.16128" x2="976.16785" y2="127.83872" style="stroke:purple;stroke-width:3"/>
+<circle cx="990.0" cy="130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="990.0" y="130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">170</text>
+<line x1="976.63727" y1="134.17584" x2="843.36273" y2="175.82416" style="stroke:purple;stroke-width:3"/>
+<circle cx="830.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="830.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">128</text>
+<line x1="818.12805" y1="187.41998" x2="761.87195" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="750.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="750.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">107</text>
+<line x1="741.2543" y1="240.93216" x2="718.7457" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="710.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="710.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">95</text>
+<line x1="704.80054" y1="292.9987" x2="695.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="690.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="690.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">92</text>
+<line x1="684.80054" y1="342.9987" x2="675.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="670.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="670.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">89</text>
+<line x1="715.19946" y1="292.9987" x2="724.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="730.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="730.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">101</text>
+<line x1="724.80054" y1="342.9987" x2="715.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="710.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="710.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">98</text>
+<line x1="758.7457" y1="240.93216" x2="781.2543" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="790.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="790.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">116</text>
+<line x1="784.80054" y1="292.9987" x2="775.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="770.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="770.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">113</text>
+<line x1="764.80054" y1="342.9987" x2="755.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="750.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="750.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">110</text>
+<line x1="795.19946" y1="292.9987" x2="804.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="810.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="810.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">125</text>
+<line x1="804.80054" y1="342.9987" x2="795.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="790.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="790.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">119</text>
+<line x1="841.87195" y1="187.41998" x2="898.12805" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="910.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="910.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">152</text>
+<line x1="901.2543" y1="240.93216" x2="878.7457" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="870.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="870.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">140</text>
+<line x1="864.80054" y1="292.9987" x2="855.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="850.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="850.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">137</text>
+<line x1="844.80054" y1="342.9987" x2="835.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="830.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="830.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">131</text>
+<line x1="875.19946" y1="292.9987" x2="884.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="890.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="890.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">146</text>
+<line x1="884.80054" y1="342.9987" x2="875.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="870.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="870.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">143</text>
+<line x1="918.7457" y1="240.93216" x2="941.2543" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="950.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="950.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">161</text>
+<line x1="944.80054" y1="292.9987" x2="935.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="930.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="930.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">158</text>
+<line x1="924.80054" y1="342.9987" x2="915.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="910.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="910.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">155</text>
+<line x1="955.19946" y1="292.9987" x2="964.80054" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="970.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="970.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">167</text>
+<line x1="1003.36273" y1="134.17584" x2="1136.6373" y2="175.82416" style="stroke:purple;stroke-width:3"/>
+<circle cx="1150.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1150.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">209</text>
+<line x1="1138.128" y1="187.41998" x2="1081.872" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="1070.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1070.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">191</text>
+<line x1="1061.2543" y1="240.93216" x2="1038.7457" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1030.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1030.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">182</text>
+<line x1="1024.8005" y1="292.9987" x2="1015.19946" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1010.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1010.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">176</text>
+<line x1="1004.80054" y1="342.9987" x2="995.19946" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="990.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="990.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">173</text>
+<line x1="1035.1995" y1="292.9987" x2="1044.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1050.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1050.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">188</text>
+<line x1="1044.8005" y1="342.9987" x2="1035.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1030.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1030.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">185</text>
+<line x1="1078.7457" y1="240.93216" x2="1101.2543" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1110.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1110.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">200</text>
+<line x1="1104.8005" y1="292.9987" x2="1095.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1090.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1090.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">197</text>
+<line x1="1084.8005" y1="342.9987" x2="1075.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1070.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1070.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">194</text>
+<line x1="1115.1995" y1="292.9987" x2="1124.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1130.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1130.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">206</text>
+<line x1="1161.872" y1="187.41998" x2="1218.128" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="1230.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1230.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">227</text>
+<line x1="1221.2543" y1="240.93216" x2="1198.7457" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1190.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1190.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">218</text>
+<line x1="1184.8005" y1="292.9987" x2="1175.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1170.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1170.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">215</text>
+<line x1="1164.8005" y1="342.9987" x2="1155.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1150.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1150.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">212</text>
+<line x1="1195.1995" y1="292.9987" x2="1204.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1210.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1210.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">224</text>
+<line x1="1204.8005" y1="342.9987" x2="1195.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1190.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1190.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">221</text>
+<line x1="1238.7457" y1="240.93216" x2="1261.2543" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1270.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1270.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">239</text>
+<line x1="1264.8005" y1="292.9987" x2="1255.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1250.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1250.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">236</text>
+<line x1="1244.8005" y1="342.9987" x2="1235.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1230.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1230.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">230</text>
+<line x1="1275.1995" y1="292.9987" x2="1284.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1290.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1290.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">242</text>
+<line x1="1324.5825" y1="31.08937" x2="1937.2925" y2="78.91063" style="stroke:purple;stroke-width:3"/>
+<circle cx="1951.25" cy="80.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1951.25" y="80.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">401</text>
+<line x1="1937.4165" y1="82.15307" x2="1643.8335" y2="127.84693" style="stroke:purple;stroke-width:3"/>
+<circle cx="1630.0" cy="130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1630.0" y="130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">323</text>
+<line x1="1616.6373" y1="134.17584" x2="1483.3627" y2="175.82416" style="stroke:purple;stroke-width:3"/>
+<circle cx="1470.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1470.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">284</text>
+<line x1="1458.128" y1="187.41998" x2="1401.872" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="1390.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1390.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">263</text>
+<line x1="1381.2543" y1="240.93216" x2="1358.7457" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1350.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1350.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">256</text>
+<line x1="1344.8005" y1="292.9987" x2="1335.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1330.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1330.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">254</text>
+<line x1="1324.8005" y1="342.9987" x2="1315.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1310.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1310.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">248</text>
+<line x1="1355.1995" y1="292.9987" x2="1364.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1370.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1370.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">260</text>
+<line x1="1364.8005" y1="342.9987" x2="1355.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1350.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1350.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">257</text>
+<line x1="1398.7457" y1="240.93216" x2="1421.2543" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1430.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1430.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">275</text>
+<line x1="1424.8005" y1="292.9987" x2="1415.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1410.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1410.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">272</text>
+<line x1="1404.8005" y1="342.9987" x2="1395.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1390.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1390.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">266</text>
+<line x1="1435.1995" y1="292.9987" x2="1444.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1450.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1450.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">281</text>
+<line x1="1444.8005" y1="342.9987" x2="1435.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1430.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1430.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">278</text>
+<line x1="1481.872" y1="187.41998" x2="1538.128" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="1550.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1550.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">305</text>
+<line x1="1541.2543" y1="240.93216" x2="1518.7457" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1510.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1510.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">296</text>
+<line x1="1504.8005" y1="292.9987" x2="1495.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1490.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1490.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">293</text>
+<line x1="1484.8005" y1="342.9987" x2="1475.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1470.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1470.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">290</text>
+<line x1="1515.1995" y1="292.9987" x2="1524.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1530.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1530.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">302</text>
+<line x1="1524.8005" y1="342.9987" x2="1515.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1510.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1510.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">299</text>
+<line x1="1558.7457" y1="240.93216" x2="1581.2543" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1590.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1590.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">317</text>
+<line x1="1584.8005" y1="292.9987" x2="1575.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1570.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1570.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">314</text>
+<line x1="1564.8005" y1="342.9987" x2="1555.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1550.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1550.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">308</text>
+<line x1="1555.1995" y1="392.9987" x2="1564.8005" y2="417.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1570.0" cy="430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1570.0" y="430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">311</text>
+<line x1="1595.1995" y1="292.9987" x2="1604.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1610.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1610.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">320</text>
+<line x1="1643.3627" y1="134.17584" x2="1776.6373" y2="175.82416" style="stroke:purple;stroke-width:3"/>
+<circle cx="1790.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1790.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">356</text>
+<line x1="1778.128" y1="187.41998" x2="1721.872" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="1710.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1710.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">341</text>
+<line x1="1701.2543" y1="240.93216" x2="1678.7457" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1670.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1670.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">332</text>
+<line x1="1664.8005" y1="292.9987" x2="1655.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1650.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1650.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">329</text>
+<line x1="1644.8005" y1="342.9987" x2="1635.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1630.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1630.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">326</text>
+<line x1="1675.1995" y1="292.9987" x2="1684.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1690.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1690.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">338</text>
+<line x1="1684.8005" y1="342.9987" x2="1675.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1670.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1670.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">335</text>
+<line x1="1718.7457" y1="240.93216" x2="1741.2543" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1750.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1750.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">350</text>
+<line x1="1744.8005" y1="292.9987" x2="1735.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1730.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1730.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">347</text>
+<line x1="1724.8005" y1="342.9987" x2="1715.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1710.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1710.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">344</text>
+<line x1="1755.1995" y1="292.9987" x2="1764.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1770.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1770.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">353</text>
+<line x1="1801.872" y1="187.41998" x2="1858.128" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="1870.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1870.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">386</text>
+<line x1="1861.2543" y1="240.93216" x2="1838.7457" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1830.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1830.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">374</text>
+<line x1="1824.8005" y1="292.9987" x2="1815.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1810.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1810.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">371</text>
+<line x1="1804.8005" y1="342.9987" x2="1795.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1790.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1790.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">359</text>
+<line x1="1835.1995" y1="292.9987" x2="1844.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1850.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1850.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">380</text>
+<line x1="1844.8005" y1="342.9987" x2="1835.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1830.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1830.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">377</text>
+<line x1="1878.7457" y1="240.93216" x2="1901.2543" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1910.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1910.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">395</text>
+<line x1="1904.8005" y1="292.9987" x2="1895.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1890.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1890.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">392</text>
+<line x1="1884.8005" y1="342.9987" x2="1875.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1870.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1870.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">389</text>
+<line x1="1915.1995" y1="292.9987" x2="1924.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1930.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1930.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">398</text>
+<line x1="1965.0835" y1="82.15307" x2="2258.6665" y2="127.84693" style="stroke:purple;stroke-width:3"/>
+<circle cx="2272.5" cy="130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2272.5" y="130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">500</text>
+<line x1="2259.1191" y1="134.1172" x2="2123.3809" y2="175.8828" style="stroke:purple;stroke-width:3"/>
+<circle cx="2110.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2110.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">455</text>
+<line x1="2098.128" y1="187.41998" x2="2041.872" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="2030.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2030.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">440</text>
+<line x1="2021.2543" y1="240.93216" x2="1998.7457" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="1990.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1990.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">431</text>
+<line x1="1984.8005" y1="292.9987" x2="1975.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1970.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1970.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">428</text>
+<line x1="1964.8005" y1="342.9987" x2="1955.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1950.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1950.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">404</text>
+<line x1="1995.1995" y1="292.9987" x2="2004.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2010.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2010.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">437</text>
+<line x1="2004.8005" y1="342.9987" x2="1995.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="1990.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1990.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">434</text>
+<line x1="2038.7457" y1="240.93216" x2="2061.2542" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="2070.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2070.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">449</text>
+<line x1="2064.8005" y1="292.9987" x2="2055.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2050.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2050.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">446</text>
+<line x1="2044.8005" y1="342.9987" x2="2035.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2030.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2030.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">443</text>
+<line x1="2075.1995" y1="292.9987" x2="2084.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2090.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2090.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">452</text>
+<line x1="2121.872" y1="187.41998" x2="2178.128" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="2190.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2190.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">473</text>
+<line x1="2181.2542" y1="240.93216" x2="2158.7458" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="2150.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2150.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">464</text>
+<line x1="2144.8005" y1="292.9987" x2="2135.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2130.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2130.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">461</text>
+<line x1="2124.8005" y1="342.9987" x2="2115.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2110.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2110.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">458</text>
+<line x1="2155.1995" y1="292.9987" x2="2164.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2170.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2170.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">470</text>
+<line x1="2164.8005" y1="342.9987" x2="2155.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2150.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2150.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">467</text>
+<line x1="2198.7458" y1="240.93216" x2="2221.2542" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="2230.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2230.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">494</text>
+<line x1="2224.8005" y1="292.9987" x2="2215.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2210.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2210.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">488</text>
+<line x1="2204.8005" y1="342.9987" x2="2195.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2190.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2190.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">476</text>
+<line x1="2235.1995" y1="292.9987" x2="2244.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2250.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2250.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">497</text>
+<line x1="2285.8809" y1="134.1172" x2="2421.6191" y2="175.8828" style="stroke:purple;stroke-width:3"/>
+<circle cx="2435.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2435.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">539</text>
+<line x1="2422.9329" y1="187.09828" x2="2362.0671" y2="222.90172" style="stroke:purple;stroke-width:3"/>
+<circle cx="2350.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2350.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">524</text>
+<line x1="2341.2542" y1="240.93216" x2="2318.7458" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="2310.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2310.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">515</text>
+<line x1="2304.8005" y1="292.9987" x2="2295.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2290.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2290.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">509</text>
+<line x1="2284.8005" y1="342.9987" x2="2275.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2270.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2270.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">506</text>
+<line x1="2315.1995" y1="292.9987" x2="2324.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2330.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2330.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">521</text>
+<line x1="2324.8005" y1="342.9987" x2="2315.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2310.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2310.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">518</text>
+<line x1="2358.7458" y1="240.93216" x2="2381.2542" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="2390.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2390.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">533</text>
+<line x1="2384.8005" y1="292.9987" x2="2375.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2370.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2370.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">530</text>
+<line x1="2364.8005" y1="342.9987" x2="2355.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2350.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2350.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">527</text>
+<line x1="2395.1995" y1="292.9987" x2="2404.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2410.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2410.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">536</text>
+<line x1="2447.0671" y1="187.09828" x2="2507.9329" y2="222.90172" style="stroke:purple;stroke-width:3"/>
+<circle cx="2520.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2520.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">557</text>
+<line x1="2510.1006" y1="239.89949" x2="2479.8994" y2="270.1005" style="stroke:purple;stroke-width:3"/>
+<circle cx="2470.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2470.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">548</text>
+<line x1="2464.8005" y1="292.9987" x2="2455.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2450.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2450.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">545</text>
+<line x1="2444.8005" y1="342.9987" x2="2435.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2430.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2430.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">542</text>
+<line x1="2475.1995" y1="292.9987" x2="2484.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2490.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2490.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">554</text>
+<line x1="2484.8005" y1="342.9987" x2="2475.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2470.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2470.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">551</text>
+<line x1="2529.8994" y1="239.89949" x2="2560.1006" y2="270.1005" style="stroke:purple;stroke-width:3"/>
+<circle cx="2570.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2570.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">590</text>
+<line x1="2561.2542" y1="290.93216" x2="2538.7458" y2="319.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="2530.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2530.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">584</text>
+<line x1="2524.8005" y1="342.9987" x2="2515.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2510.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2510.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">560</text>
+<line x1="2515.1995" y1="392.9987" x2="2524.8005" y2="417.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2530.0" cy="430.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2530.0" y="430.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">563</text>
+<line x1="2535.1995" y1="442.9987" x2="2544.8005" y2="467.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2550.0" cy="480.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2550.0" y="480.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">566</text>
+<line x1="2555.1995" y1="492.9987" x2="2564.8005" y2="517.00134" style="stroke:purple;stroke-width:3"/>
+<circle cx="2570.0" cy="530.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2570.0" y="530.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">569</text>
+<line x1="2575.1995" y1="542.99866" x2="2584.8005" y2="567.00134" style="stroke:purple;stroke-width:3"/>
+<circle cx="2590.0" cy="580.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2590.0" y="580.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">572</text>
+<line x1="2595.1995" y1="592.99866" x2="2604.8005" y2="617.00134" style="stroke:purple;stroke-width:3"/>
+<circle cx="2610.0" cy="630.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2610.0" y="630.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">575</text>
+<line x1="2615.1995" y1="642.99866" x2="2624.8005" y2="667.00134" style="stroke:purple;stroke-width:3"/>
+<circle cx="2630.0" cy="680.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2630.0" y="680.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">578</text>
+<line x1="2635.1995" y1="692.99866" x2="2644.8005" y2="717.00134" style="stroke:purple;stroke-width:3"/>
+<circle cx="2650.0" cy="730.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2650.0" y="730.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">581</text>
+<line x1="2535.1995" y1="342.9987" x2="2544.8005" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2550.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2550.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">587</text>
+<line x1="2578.7458" y1="290.93216" x2="2601.2542" y2="319.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="2610.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2610.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">596</text>
+<line x1="2604.8005" y1="342.9987" x2="2595.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2590.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2590.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">593</text>
 </svg>
 
