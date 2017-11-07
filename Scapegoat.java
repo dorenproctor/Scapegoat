@@ -56,18 +56,18 @@ class Scapegoat {
 	}
 
 
-	public boolean search(int val) {
+	public Node search(int val) {
 		Node node = root;
 
 		while (node != null) {
 			if (val == node.value)
-				return true;
+				return node;
 			else if (val < node.value)
 				node = node.left; 
 			else
 				node = node.right;
 		}
-		return false;
+		return null;
 	}
 
 

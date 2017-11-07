@@ -79,7 +79,7 @@ class Main {
 		}
 		else if (command.equals("Search")) {
 			System.out.println("Searching for val: "+val);
-			if (sg.search(val))
+			if (sg.search(val) != null)
 				System.out.println("Found");
 			else
 				System.out.println("Not found");
