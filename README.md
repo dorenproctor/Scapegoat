@@ -5,13 +5,13 @@ A scapegoat tree is a self-balancing binary search tree that provides worst-case
 ## Usage ##
 Option 1: Use your favorite Java IDE.  
 
-Option 2: Open the directory in your terminal and run:
-`make`
+Option 2: Open the directory in your terminal and run:  
+`make`  
 `java Main`
 
 There must be a `tree.txt` in the same directory. This contains the intructions for the tree.
 
-### Input ###
+## Input ##
 
 Put the following commands into `tree.txt`. One command per line. Note that capitalization matters and there must be whitespace in lines that take multiple words.
 
@@ -23,15 +23,15 @@ Put the following commands into `tree.txt`. One command per line. Note that capi
 
 • Delete key – delete the specified key from the tree if it exists.  
 
-• Print – prints the tree structure.  
+• Print – print the tree structure.  
 
 • Done – exit the program.
 
-### Output ###
+## Output ##
 The output goes into a file named `output.svg`. The pretty printer that creates the svg file was written by Wayne Cochran, a previous professor at WSUV.
 
-### Debug info ###
-Toward the top of Scapegoat.java there is a public global int named `debug`. It has several different values and the program prints different output to the terminal depending on its value. 
+## Debug info ##
+Toward the top of `Scapegoat.java` there is a public global int named `debug`. It has several different values and the program prints different output to the terminal depending on its value. 
 
 • debug = 0 -- prints something when you use the Search, Print, or Done command.
 
