@@ -1,3 +1,6 @@
+Author: Doren Proctor
+doren.proctor@wsu.edu
+
 ## Description ##
 A scapegoat tree is a self-balancing binary search tree that provides worst-case O(log n) lookup time, and O(log n) amortized insertion and deletion time. Instead of the small incremental rebalancing operations used by most balanced tree algorithms, scapegoat trees rarely but expensively choose a "scapegoat" and completely rebuild the subtree rooted at the scapegoat into a complete binary tree.  
 
@@ -40,3 +43,12 @@ Toward the top of `Scapegoat.java` there is a public global int named `debug`. I
 • debug = 2 -- also prints the depth and maxDepth on every insert.  When depth>maxDepth, the tree rebalances.
 
 • debug = 3 -- also prints every viable scapegoat when the tree is rebalancing.
+
+## Contained files ##
+• `tree.txt` - the input for the program. This is the file you edit to alter the tree. 
+• `Main.java` - the executable program. Parses `tree.txt` and creates a scapegoat tree from it.
+• `Scapegoat.java` - does all the logic for the scapegoat tree.
+• `Node.java` - small object that Scapegoat uses for each element of the tree.
+• `Main.java` - pretty printer that creates `output.svg` file to view the tree
+• `Makefile` - this compiles the program. In the terminal, you can run `make` to compile everything or `make clean` to remove the `.class` files and `output.svg`.
+• `README.md` - this file.
