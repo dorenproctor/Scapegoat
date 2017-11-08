@@ -86,7 +86,7 @@ class Main {
 			System.out.println("");
 		}
 		else if (command.equals("Delete")) {
-			System.out.println("Not implemented yet\n");
+			sg.delete(val);
 		}
 		else if (command.equals("Print")) {
 			Vector<String> vec = serialize(sg.getRoot());
@@ -94,10 +94,10 @@ class Main {
 			File file = new File("output.svg");
 			PrintStream stream = new PrintStream(file);
 			treePrinter.printSVG(stream);
-			System.out.println("Printing tree to `output.svg`");
+			System.out.println("Printing tree to `output.svg`\n");
 		}
 		else if (command.equals("Done")) {
-			System.out.println("Done on line " + i);
+			System.out.println("Done on line " + i + "\n");
 			System.exit(0);
 		}
 		else {

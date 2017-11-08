@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2680" height="760">
-<circle cx="1310.625" cy="30.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="1310.625" y="30.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">245</text>
-<line x1="1296.6675" y1="31.08937" x2="683.9576" y2="78.91063" style="stroke:purple;stroke-width:3"/>
+<circle cx="1310.0" cy="30.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1310.0" y="30.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">245</text>
+<line x1="1296.0425" y1="31.090427" x2="683.95746" y2="78.90958" style="stroke:purple;stroke-width:3"/>
 <circle cx="670.0" cy="80.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="670.0" y="80.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">86</text>
 <line x1="656.16785" y1="82.16128" x2="363.83215" y2="127.83872" style="stroke:purple;stroke-width:3"/>
@@ -268,10 +268,10 @@
 <line x1="1275.1995" y1="292.9987" x2="1284.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
 <circle cx="1290.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="1290.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">242</text>
-<line x1="1324.5825" y1="31.08937" x2="1937.2925" y2="78.91063" style="stroke:purple;stroke-width:3"/>
-<circle cx="1951.25" cy="80.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="1951.25" y="80.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">401</text>
-<line x1="1937.4165" y1="82.15307" x2="1643.8335" y2="127.84693" style="stroke:purple;stroke-width:3"/>
+<line x1="1323.9575" y1="31.090427" x2="1936.0425" y2="78.90958" style="stroke:purple;stroke-width:3"/>
+<circle cx="1950.0" cy="80.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="1950.0" y="80.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">401</text>
+<line x1="1936.1678" y1="82.16128" x2="1643.8322" y2="127.83872" style="stroke:purple;stroke-width:3"/>
 <circle cx="1630.0" cy="130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="1630.0" y="130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">323</text>
 <line x1="1616.6373" y1="134.17584" x2="1483.3627" y2="175.82416" style="stroke:purple;stroke-width:3"/>
@@ -406,10 +406,10 @@
 <line x1="1915.1995" y1="292.9987" x2="1924.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
 <circle cx="1930.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="1930.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">398</text>
-<line x1="1965.0835" y1="82.15307" x2="2258.6665" y2="127.84693" style="stroke:purple;stroke-width:3"/>
-<circle cx="2272.5" cy="130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="2272.5" y="130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">500</text>
-<line x1="2259.1191" y1="134.1172" x2="2123.3809" y2="175.8828" style="stroke:purple;stroke-width:3"/>
+<line x1="1963.8322" y1="82.16128" x2="2256.1677" y2="127.83872" style="stroke:purple;stroke-width:3"/>
+<circle cx="2270.0" cy="130.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2270.0" y="130.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">500</text>
+<line x1="2256.6372" y1="134.17584" x2="2123.3628" y2="175.82416" style="stroke:purple;stroke-width:3"/>
 <circle cx="2110.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="2110.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">455</text>
 <line x1="2098.128" y1="187.41998" x2="2041.872" y2="222.58002" style="stroke:purple;stroke-width:3"/>
@@ -472,10 +472,10 @@
 <line x1="2235.1995" y1="292.9987" x2="2244.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
 <circle cx="2250.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="2250.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">497</text>
-<line x1="2285.8809" y1="134.1172" x2="2421.6191" y2="175.8828" style="stroke:purple;stroke-width:3"/>
-<circle cx="2435.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="2435.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">539</text>
-<line x1="2422.9329" y1="187.09828" x2="2362.0671" y2="222.90172" style="stroke:purple;stroke-width:3"/>
+<line x1="2283.3628" y1="134.17584" x2="2416.6372" y2="175.82416" style="stroke:purple;stroke-width:3"/>
+<circle cx="2430.0" cy="180.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2430.0" y="180.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">539</text>
+<line x1="2418.128" y1="187.41998" x2="2361.872" y2="222.58002" style="stroke:purple;stroke-width:3"/>
 <circle cx="2350.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="2350.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">524</text>
 <line x1="2341.2542" y1="240.93216" x2="2318.7458" y2="269.06784" style="stroke:purple;stroke-width:3"/>
@@ -505,10 +505,10 @@
 <line x1="2395.1995" y1="292.9987" x2="2404.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
 <circle cx="2410.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="2410.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">536</text>
-<line x1="2447.0671" y1="187.09828" x2="2507.9329" y2="222.90172" style="stroke:purple;stroke-width:3"/>
-<circle cx="2520.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="2520.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">557</text>
-<line x1="2510.1006" y1="239.89949" x2="2479.8994" y2="270.1005" style="stroke:purple;stroke-width:3"/>
+<line x1="2441.872" y1="187.41998" x2="2498.128" y2="222.58002" style="stroke:purple;stroke-width:3"/>
+<circle cx="2510.0" cy="230.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2510.0" y="230.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">557</text>
+<line x1="2501.2542" y1="240.93216" x2="2478.7458" y2="269.06784" style="stroke:purple;stroke-width:3"/>
 <circle cx="2470.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="2470.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">548</text>
 <line x1="2464.8005" y1="292.9987" x2="2455.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
@@ -523,10 +523,10 @@
 <line x1="2484.8005" y1="342.9987" x2="2475.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
 <circle cx="2470.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="2470.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">551</text>
-<line x1="2529.8994" y1="239.89949" x2="2560.1006" y2="270.1005" style="stroke:purple;stroke-width:3"/>
-<circle cx="2570.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="2570.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">590</text>
-<line x1="2561.2542" y1="290.93216" x2="2538.7458" y2="319.06784" style="stroke:purple;stroke-width:3"/>
+<line x1="2518.7458" y1="240.93216" x2="2541.2542" y2="269.06784" style="stroke:purple;stroke-width:3"/>
+<circle cx="2550.0" cy="280.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2550.0" y="280.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">590</text>
+<line x1="2544.8005" y1="292.9987" x2="2535.1995" y2="317.0013" style="stroke:purple;stroke-width:3"/>
 <circle cx="2530.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="2530.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">584</text>
 <line x1="2524.8005" y1="342.9987" x2="2515.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
@@ -553,14 +553,11 @@
 <line x1="2635.1995" y1="692.99866" x2="2644.8005" y2="717.00134" style="stroke:purple;stroke-width:3"/>
 <circle cx="2650.0" cy="730.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="2650.0" y="730.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">581</text>
-<line x1="2535.1995" y1="342.9987" x2="2544.8005" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<line x1="2555.1995" y1="292.9987" x2="2564.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2570.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2570.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">596</text>
+<line x1="2564.8005" y1="342.9987" x2="2555.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
 <circle cx="2550.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="2550.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">587</text>
-<line x1="2578.7458" y1="290.93216" x2="2601.2542" y2="319.06784" style="stroke:purple;stroke-width:3"/>
-<circle cx="2610.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="2610.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">596</text>
-<line x1="2604.8005" y1="342.9987" x2="2595.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="2590.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="2590.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">593</text>
+<text x="2550.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">593</text>
 </svg>
 

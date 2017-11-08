@@ -45,6 +45,37 @@ class Scapegoat {
 	}
 
 
+	public boolean delete(int val) {
+		if (debug>0) System.out.println("Deleting "+val);
+		Node node = search(val);
+		if (node == null) {
+			if (debug>0) System.out.println("Did not find "+val+". Can't delete\n");
+			return false;
+		}
+
+		if (node.left == null)
+			transplant(node, node.right);
+		else if (node.right == null)
+			transplant(node, node.left);
+		else {
+			Node successorNode = node;
+			while (successorNode.left != null)
+				successorNode = successorNode.left;
+			if (successorNode.parent != node) {
+				transplant(successorNode, successorNode.right);
+				successorNode.right = node.right;
+				successorNode.right.parent = successorNode;
+			}
+			transplant(node, successorNode);
+			successorNode.left = node.left;
+			successorNode.left.parent = successorNode;
+		}
+		n--;
+		if (debug>0) System.out.println("");
+		return true;
+	}
+
+
 	public boolean isEmpty() {
 		return (root == null);
 	}
@@ -86,6 +117,18 @@ class Scapegoat {
 			return 0;
 
 		return 1 + size(node.left) + size(node.right);
+	}
+
+
+	private void transplant(Node oldNode, Node newNode) {
+		if (oldNode.parent == null)
+			root = newNode;
+		else if (oldNode == oldNode.parent.left)
+			oldNode.parent.left = newNode;
+		else
+			oldNode.parent.right = newNode;
+		if (newNode != null)
+			newNode.parent = oldNode.parent;
 	}
 
 
