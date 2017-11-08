@@ -186,10 +186,8 @@ Insert	581
 Insert	587
 Insert	311
 Insert	593
-Search 1
-Search 587
-Delete 587
-Search 587
-Delete 1
+Search 593
+Delete 593
+Search 593
 Print
 Done

@@ -6,7 +6,7 @@ class Scapegoat {
 	public int debug = 0;
 
 	private Node root;
-	private int n;
+	private int n, maxN;
 	private double alpha, baseAlpha;
 
 	public Scapegoat(double a, int val) { // constructor
@@ -14,7 +14,8 @@ class Scapegoat {
 		baseAlpha = Math.log(1/alpha); // no need to calculate on every insert/delete
 		root = new Node(val);
 		n = 1;
-		if (debug>0) System.out.println("Creating tree with alpha: "+a+"  and root: "+val+"\n");
+		maxN = 1;
+		if (debug>0) System.out.println("Creating tree with alpha: "+a+" and root: "+val+"\n");
 	}
 
 
@@ -26,20 +27,11 @@ class Scapegoat {
  		if (debug>1) System.out.println("depth: "+depth+"  MaxDepth: "+maxDepth);
 
 		if (depth > maxDepth) {
-			if (debug>0) System.out.println("Too deep. Finding scapegoat");
-			Node scapegoat = newNode;
-			Node node = newNode;
-			while (node.parent != null) {
-				node = node.parent;
-				if (size(node.left) > alpha*size(node.right) ||
-					size(node.right) > alpha*size(node.left)) {
-					scapegoat = node;
-					if (debug>2) System.out.println(scapegoat.value+" is a viable scapegoat");
-				}
-			}
-			if (debug>0) System.out.println("Scapegoat is "+scapegoat.value);
+			Node scapegoat = getScapegoat(newNode);
 			rebuild(scapegoat);
+			
 		}
+		maxN = Math.max(n, maxN); // for delete
 		if (debug>0) System.out.println("");
 		return (depth != -1);
 	}
@@ -70,7 +62,14 @@ class Scapegoat {
 			successorNode.left = node.left;
 			successorNode.left.parent = successorNode;
 		}
+
 		n--;
+		if (n <= alpha*maxN) {
+			Node scapegoat = getScapegoat(node);
+			rebuild(scapegoat);
+			maxN = n;
+		}
+
 		if (debug>0) System.out.println("");
 		return true;
 	}
@@ -117,6 +116,23 @@ class Scapegoat {
 			return 0;
 
 		return 1 + size(node.left) + size(node.right);
+	}
+
+
+	private Node getScapegoat(Node node) {
+		if (debug>0) System.out.println("Finding scapegoat");
+		Node scapegoat = node;
+		Node tmp = node;
+		while (tmp.parent != null) {
+			tmp = tmp.parent;
+			if (size(tmp.left) > alpha*size(tmp.right) ||
+				size(tmp.right) > alpha*size(tmp.left)) {
+				scapegoat = tmp;
+				if (debug>2) System.out.println(scapegoat.value+" is a viable scapegoat");
+			}
+		}
+		if (debug>0) System.out.println("Scapegoat is "+scapegoat.value);
+		return scapegoat;
 	}
 
 
@@ -171,6 +187,7 @@ class Scapegoat {
 		return depth;
 	}
 
+
 	private void rebuild(Node node) {
 		int nodeSize = size(node);
 		Node parent = node.parent;
@@ -188,6 +205,9 @@ class Scapegoat {
 			parent.right = rebalance(nodeArray, 0, nodeSize);
 			parent.right.parent = parent;
 		}
+		if (node == root) { // if entire tree is rebalanced, maxN become N. For delete
+			maxN = n;
+		}
 	}
 
 	private int fillArray(Node node, Node[] nodeArray, int i) {
@@ -198,6 +218,7 @@ class Scapegoat {
 		nodeArray[i++] = node;
 		return fillArray(node.right, nodeArray, i);
 	}
+
 
 	private Node rebalance(Node[] nodeArray, int i, int nodeSize) {
 		if (nodeSize == 0)

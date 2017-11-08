@@ -6,7 +6,7 @@ class Node {
 	Node right, left, parent;
 	int value;
 
-	public Node(int val) { // constructor
+	public Node(int val) {
 		value = val;
 	}
 } 

@@ -21,6 +21,7 @@ class Main {
 		return sc;
 	}
 
+
 	private static String[] getFirstLine(Scanner sc) {
 		String line = sc.nextLine();
 		String[] contents = line.split("\\s"); //should be any whitespace
@@ -32,38 +33,24 @@ class Main {
 			System.out.println("\nFirst word of first line should be BuildTree\n");
 			System.exit(1);
 		}
-		// System.out.println(contents[0]+"\t"+contents[1]+"\t"+contents[2]);
 		return contents;
 	}
 
-	// private static String[] getInput(Scanner sc) {
-	// String line = sc.nextLine();
-	// 	String[] contents = line.split("\\s");
-	// 	// if (contents.length != 2) {
-	// 	// 	System.out.println("\nFound " + contents.length + " entries: " + line);
-	// 	// 	System.out.println("Skipping\n");
-	// 	// 	return null;
-	// 	// }
-	// 	// System.out.println("Command: " + contents[0]);
-	// 	// System.out.println("Number: " + contents[1]);
-	// 	return contents;
-	// }
 
 	private static boolean validInput(String[] contents) {
 		if (contents.length < 1 || contents[0].isEmpty())
 			return false;
 		if (contents[0].matches("^.*?(Print|Done).*$")) {
-			// System.out.println("Print or Done: " + contents[0]);
 			if (contents.length != 1)
 				return false;
 		}
 		else if (contents[0].matches("^.*?(Insert|Search|Delete).*$")) { 
-			// System.out.println("Insert, Search, or Delete: " + contents[0]);
 			if (contents.length != 2)
 				return false;
 		}
 		return true;
 	}
+
 
 	private static void evaluateInput(String[] contents, Scapegoat sg, int i) throws FileNotFoundException {
 		String command = contents[0];
@@ -130,7 +117,6 @@ class Main {
 		Scapegoat sg = new Scapegoat(Double.parseDouble(contents[1]), Integer.parseInt(contents[2]));
 		int i = 2;
 		while (sc.hasNext()) {
-			// contents = getInput(sc);
 			String line = sc.nextLine();
 			contents = line.split("\\s");
 			if (contents != null) {

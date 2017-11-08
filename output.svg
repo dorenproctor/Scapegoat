@@ -553,11 +553,11 @@
 <line x1="2635.1995" y1="692.99866" x2="2644.8005" y2="717.00134" style="stroke:purple;stroke-width:3"/>
 <circle cx="2650.0" cy="730.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="2650.0" y="730.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">581</text>
+<line x1="2535.1995" y1="342.9987" x2="2544.8005" y2="367.0013" style="stroke:purple;stroke-width:3"/>
+<circle cx="2550.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
+<text x="2550.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">587</text>
 <line x1="2555.1995" y1="292.9987" x2="2564.8005" y2="317.0013" style="stroke:purple;stroke-width:3"/>
 <circle cx="2570.0" cy="330.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
 <text x="2570.0" y="330.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">596</text>
-<line x1="2564.8005" y1="342.9987" x2="2555.1995" y2="367.0013" style="stroke:purple;stroke-width:3"/>
-<circle cx="2550.0" cy="380.0" r="14.0" stroke-width="3" stroke="purple" fill="white"/>
-<text x="2550.0" y="380.0" font-size="20" style="text-anchor: middle;dominant-baseline: central;">593</text>
 </svg>
 
